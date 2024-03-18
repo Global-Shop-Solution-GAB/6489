@@ -1,0 +1,10 @@
+<html style="font-family: &quot;Segoe UI&quot;, Tahoma, Arial, sans-serif;">
+    <head>  
+    </head>
+    <body>
+        <div id="confirm" style="width: auto;">
+	<div id="email" style="text-align: left;padding-top: 20px;margin: auto auto;width: 95%;font-size: 1em;">
+	<p style="text-align: left;width: 95%;font-size: 1em;"> {{BODY}} </p>
+	</div>
+    </body>
+</html>
