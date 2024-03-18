@@ -1,0 +1,5 @@
+Invoice %INVOICE%*!*Dear %CUSTOMER%,
+*!*Attached is Invoice #%INVOICE% (PO #%CUSTPO%)*!*. 
+
+Thank you!
+%COMPANY%
